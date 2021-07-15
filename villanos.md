@@ -2,3 +2,4 @@
 
 * Red Skull
 * Buitre
+* Luke Cage
