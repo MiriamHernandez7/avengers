@@ -1,3 +1,4 @@
 # Misiones
 
-Investigar a RedSkull
+* Investigar a RedSkull
+* Capturar a RedSkull
